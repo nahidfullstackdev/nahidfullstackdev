@@ -1,13 +1,31 @@
 # 💫 About Me:
 Hi, 
+I’m Md. Nahid Hossain – a Full Stack Mobile App Developer specializing in Flutter.
+I’m passionate about building beautiful, scalable, and high-performance mobile apps for iOS and Android.
 
-I’m Md Nahid Hossain, a Full-Stack Mobile App Developer and Solopreneur dedicated to solving real-world problems through innovative apps. With expertise in Flutter, Node.js, MongoDB, and Firebase, I specialize in creating scalable, user-friendly applications that bring ideas to life. As a passionate entrepreneur, I love building impactful SaaS & app products and collaborating with clients and fellow developers to create meaningful solutions.
+Here’s what I bring to the table:
 
-🚀 What I Can Do for You:
- • Develop seamless cross-platform apps using Flutter.
- • Build robust backends with Node.js and Firebase.
- • Scale your business ideas into real-world products.*
-Let’s connect and build something extraordinary together!
+✅ Cross-platform Flutter app development (iOS & Android)
+
+✅ Firebase integration: Auth, Firestore, Realtime DB, Push Notifications
+
+✅ Backend with Node.js & RESTful APIs
+
+✅ Experience with MongoDB, SQLite, and Hive
+
+✅ Clean architecture using Riverpod and Bloc
+
+✅ Smooth UI/UX with advanced animations
+
+✅ MVPs & full app solutions for startups and businesses
+
+Why choose me?
+⚡ Fast & clear communication
+⚡ High-quality, maintainable code
+⚡ Reliable and on-time delivery
+⚡ Post-launch support and long-term collaboration
+
+If you're looking to build a new app, launch an MVP, or upgrade an existing product — let's connect and bring your vision to life! 🚀
 
 
 ## 🌐 Socials:
